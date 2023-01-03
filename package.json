@@ -1,0 +1,12 @@
+{
+  "name": "dofapi-wrapper",
+  "version": "1.0.0",
+  "description": "Simple et rapide wrapper pour https://dofus.dofapi.fr/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["dofus", "wrapper", "dofapi"],
+  "author": "Zeleff_II",
+  "license": "ISC"
+}
