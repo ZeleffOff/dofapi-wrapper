@@ -4,7 +4,7 @@
 - Installer la dernière version de dofous via la commande `npm install dofous@latest`
 - L'utilité de ce 'module' est de faciliter l'usage de l'api de **dofapi**.
 - Vous pouvez consultez da page Github de [Dofapi](https://github.com/dofapi/dofapi)
-
+- Vous pouvez consultez la page sur le site [npm](https://www.npmjs.com/package/dofapi-wrapper)
 
 ## Fonctionnalités
  `getClasses()` - Vous permet d'obtenir toutes les classes.
